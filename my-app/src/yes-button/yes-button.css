@@ -1,0 +1,12 @@
+
+#adventure {
+    border-radius: 10px;
+    font-size: 1.5em;
+    font-weight: bold;
+    box-shadow: 5px 5px 5px 5px #888888;
+    /* change the color so it has and accessible color scheme */
+    background-color: #f2f2f2;
+    color: #000000;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 10px;
+}
